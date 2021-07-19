@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Backend Rec5/1.0.0": {
+        "runtime": {
+          "Backend Rec5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backend Rec5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

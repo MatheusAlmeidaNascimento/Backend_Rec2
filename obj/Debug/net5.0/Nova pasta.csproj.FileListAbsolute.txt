@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Backend-Rec2-main\bin\Debug\net5.0\Nova pasta.exe
+C:\Users\dev\Desktop\Backend-Rec2-main\bin\Debug\net5.0\Nova pasta.deps.json
+C:\Users\dev\Desktop\Backend-Rec2-main\bin\Debug\net5.0\Nova pasta.runtimeconfig.json
+C:\Users\dev\Desktop\Backend-Rec2-main\bin\Debug\net5.0\Nova pasta.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend-Rec2-main\bin\Debug\net5.0\Nova pasta.dll
+C:\Users\dev\Desktop\Backend-Rec2-main\bin\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\dev\Desktop\Backend-Rec2-main\bin\Debug\net5.0\Nova pasta.pdb
+C:\Users\dev\Desktop\Backend-Rec2-main\obj\Debug\net5.0\Nova pasta.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\Backend-Rec2-main\obj\Debug\net5.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Backend-Rec2-main\obj\Debug\net5.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend-Rec2-main\obj\Debug\net5.0\Nova pasta.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend-Rec2-main\obj\Debug\net5.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend-Rec2-main\obj\Debug\net5.0\Nova pasta.dll
+C:\Users\dev\Desktop\Backend-Rec2-main\obj\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\dev\Desktop\Backend-Rec2-main\obj\Debug\net5.0\Nova pasta.pdb
+C:\Users\dev\Desktop\Backend-Rec2-main\obj\Debug\net5.0\Nova pasta.genruntimeconfig.cache

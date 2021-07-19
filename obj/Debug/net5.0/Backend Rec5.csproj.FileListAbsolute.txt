@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Backend Rec5\bin\Debug\net5.0\Backend Rec5.exe
+C:\Users\dev\Desktop\Backend Rec5\bin\Debug\net5.0\Backend Rec5.deps.json
+C:\Users\dev\Desktop\Backend Rec5\bin\Debug\net5.0\Backend Rec5.runtimeconfig.json
+C:\Users\dev\Desktop\Backend Rec5\bin\Debug\net5.0\Backend Rec5.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend Rec5\bin\Debug\net5.0\Backend Rec5.dll
+C:\Users\dev\Desktop\Backend Rec5\bin\Debug\net5.0\ref\Backend Rec5.dll
+C:\Users\dev\Desktop\Backend Rec5\bin\Debug\net5.0\Backend Rec5.pdb
+C:\Users\dev\Desktop\Backend Rec5\obj\Debug\net5.0\Backend Rec5.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Backend Rec5\obj\Debug\net5.0\Backend Rec5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Backend Rec5\obj\Debug\net5.0\Backend Rec5.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend Rec5\obj\Debug\net5.0\Backend Rec5.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend Rec5\obj\Debug\net5.0\Backend Rec5.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend Rec5\obj\Debug\net5.0\Backend Rec5.dll
+C:\Users\dev\Desktop\Backend Rec5\obj\Debug\net5.0\ref\Backend Rec5.dll
+C:\Users\dev\Desktop\Backend Rec5\obj\Debug\net5.0\Backend Rec5.pdb
+C:\Users\dev\Desktop\Backend Rec5\obj\Debug\net5.0\Backend Rec5.genruntimeconfig.cache
